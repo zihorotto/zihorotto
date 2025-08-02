@@ -2,8 +2,7 @@
 
 ## About Me
 
-I'm Otto Zihor, a passionate software developer with experience in building scalable and robust applications.  
-My main focus is on Java development, but I also have hands-on experience with frontend technologies like Angular and React, as well as various DevOps tools.  
+I'm Otto Zihor, a passionate software developer.  
 I'm always eager to explore new challenges and continuously improve my skills.
 
 ---
